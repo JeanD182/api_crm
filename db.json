@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jean Michel Duran Fuentes",
+      "empresa": "Something Studios",
+      "email": "jean.duran182@gmail.com",
+      "telefono": "8295987534",
+      "notas": "He is really cool",
+      "id": 1
+    },
+    {
+      "nombre": "Victoria Acosta",
+      "empresa": "Magenta ",
+      "email": "victoria.acosta@email.com",
+      "telefono": "1521788796",
+      "notas": "Quiere comprar algo, no se",
+      "id": 4
+    },
+    {
+      "nombre": "Zelda Duran",
+      "empresa": "Something Studios",
+      "email": "zelda.duran@email.com",
+      "telefono": "555488485414",
+      "notas": "Quiere mimir mucho!",
+      "id": 5
+    },
+    {
+      "nombre": "Cosha Duran",
+      "empresa": "Something Studios",
+      "email": "c.duran@gmail.com",
+      "telefono": "8295987534",
+      "notas": "Mime mas que Zelda!",
+      "id": 6
+    },
+    {
+      "nombre": "Druid M.",
+      "empresa": "Druids.org",
+      "email": "druid@druids.org",
+      "telefono": "",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Mika Handiman",
+      "empresa": "Handiman Solutions",
+      "email": "m.handiman@hs.com",
+      "telefono": "",
+      "notas": "She is not that cool",
+      "id": 8
+    },
+    {
+      "nombre": "Veronica Mars",
+      "empresa": "Poser Studio",
+      "email": "v.mars@poser.com",
+      "telefono": "+598566456",
+      "notas": "She is just a poser",
+      "id": 9
+    }
+  ]
+}
